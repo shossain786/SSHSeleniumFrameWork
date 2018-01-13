@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -50,7 +50,7 @@ public class ScreenshotWithHighlight {
 		}
 	}
 	
-	@AfterMethod
+	@AfterTest
 	public void tearDown() {
 		if(driver!=null)
 			driver.quit();
