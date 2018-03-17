@@ -33,7 +33,9 @@ public class ReadCSVFiles {
 		} catch(IOException ie) {
 			System.out.println(ie.getMessage());
 		}
-		System.out.println("End of new Function.");
 		System.out.println(dataMap.entrySet());
+		System.out.println(dataMap.keySet());
+		System.out.println(dataMap.values());
+		System.out.println(dataMap.size());
 	}
 }
