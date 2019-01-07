@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="NewJavaProject/src"/>
+	<classpathentry kind="lib" path="C:/Jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/json-flattener-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/json-flattener-0.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Jars/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
