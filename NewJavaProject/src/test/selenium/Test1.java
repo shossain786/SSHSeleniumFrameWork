@@ -5,6 +5,6 @@ public class Test1 {
 		System.out.println("This is  start of the test.");
 		String firstName = "Saddam Banu";
 		String lastName = "Hossain";
-		System.out.println("Hello, "+firstName+" "+lastName);
+		System.out.println("Hi, "+firstName+" "+lastName);
 	}
 }
